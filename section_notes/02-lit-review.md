@@ -1,4 +1,3 @@
-# Literature Review: Machine Learning Algorithms for Creating Novel Iron Oxide Nanostructures
 
 ## Executive Summary
 

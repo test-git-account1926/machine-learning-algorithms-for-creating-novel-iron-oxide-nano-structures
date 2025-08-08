@@ -1,5 +1,3 @@
-# Literature Review
-
 
 ## Executive Summary
 

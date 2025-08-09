@@ -1,4 +1,3 @@
-# Experiment Ideas
 
 ## Overview
 
